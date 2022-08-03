@@ -1,1 +1,7 @@
-# uz-regions-sql-database
+## All regins in uzbekistan database
+
+Regions language
+
+* Uz
+* Oz
+* Ru
